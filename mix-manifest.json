@@ -1,0 +1,14 @@
+{
+    "/dist/js/background.js": "/dist/js/background.js",
+    "/dist/js/router.js": "/dist/js/router.js",
+    "/dist/js/store.js": "/dist/js/store.js",
+    "/dist/js/HadesApp.js": "/dist/js/HadesApp.js",
+    "/dist/css/Hades.css": "/dist/css/Hades.css",
+    "/dist/images/chat-icon64.png": "/dist/images/chat-icon64.png",
+    "/dist/images/hades-icon128.png": "/dist/images/hades-icon128.png",
+    "/dist/images/hades-icon16.png": "/dist/images/hades-icon16.png",
+    "/dist/images/hades-icon48.png": "/dist/images/hades-icon48.png",
+    "/dist/images/hades-icon64.png": "/dist/images/hades-icon64.png",
+    "/dist/images/rag-icon64.png": "/dist/images/rag-icon64.png",
+    "/dist/font-type/title-font.otf": "/dist/font-type/title-font.otf"
+}

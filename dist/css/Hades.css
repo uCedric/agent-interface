@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "title-font";
+  src: url("../font-type/title-font.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  text-align: center;
+  color: #2c3e50;
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+}

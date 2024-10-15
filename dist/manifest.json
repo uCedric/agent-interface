@@ -1,0 +1,28 @@
+{
+    "name": "Hades",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "description": "This extension does something useful",
+    "side_panel": {
+        "default_path": "Hades.html",
+        "default_icon": "images/hades-icon128.png"
+    },
+    "action": {
+        "default_icon": "images/hades-icon48.png",
+        "default_title": "Click to open panel"
+    },
+    "web_accessible_resources": [
+        {
+        "resources": ["images/hades-icon48.png", "images/hades-icon64.png", "images/hades-icon128.png"],
+        "matches": ["<all_urls>"]
+        }
+    ],
+    "permissions": ["sidePanel", "storage", "webRequest", "http://*/*", "https://*/*"],
+    "background": {
+        "service_worker": "js/background.js",
+        "persistent": false
+    },
+    "content_scripts": [
+        
+    ]
+}
